@@ -1,4 +1,4 @@
-### 🤝Back-end de uma plataforma de Match Profissional para PCDs – Java Spring Boot
+### 🤝Back-end de uma Plataforma de Match Profissional para PCDs – Java Spring Boot
 
 Este projeto é uma plataforma de conexão entre candidatos PCDs e empresas, inspirada no modelo de "LinkedIn em formato Tinder", onde ambas as partes dão "match" com base em compatibilidade de perfis. O sistema utiliza um questionário de acessibilidade com base no Instrumento de Funcionalidade Brasileiro (IF-Br) para avaliar os candidatos, promovendo a inclusão e a acessibilidade no processo de recrutamento.
 
