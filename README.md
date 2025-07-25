@@ -51,3 +51,5 @@ Cada entidade possui seu respectivo controlador REST. Exemplos de endpoints espe
 ### 👨‍💻 Autor
 
 Projeto acadêmico desenvolvido por Rafael Souza (https://github.com/RaFaSMK) em conjunto com o Docente Daniel Pires, durante o 3º semestre do curso de Engenharia de Software.
+
+📄 [Relatório Final do Projeto](RELATÓRIO-FINAL-UCE-PP1.pdf)
