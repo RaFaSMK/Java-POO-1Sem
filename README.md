@@ -46,7 +46,6 @@ Cada entidade possui seu respectivo controlador REST. Exemplos de endpoints espe
 * `GET /formularios/{id}`
 * `POST /questoes`
 * `PUT /questionarios/{id}`
-* 
 ---
 
 ### 👨‍💻 Autor
